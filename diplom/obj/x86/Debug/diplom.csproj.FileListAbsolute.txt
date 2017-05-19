@@ -1,0 +1,10 @@
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\bin\x86\Debug\Database1.mdf
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\bin\x86\Debug\Database1_log.ldf
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\bin\x86\Debug\diplom.exe.config
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\bin\x86\Debug\diplom.exe
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\bin\x86\Debug\diplom.pdb
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\obj\x86\Debug\diplom.Form1.resources
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\obj\x86\Debug\diplom.Properties.Resources.resources
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\obj\x86\Debug\diplom.csproj.GenerateResource.Cache
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\obj\x86\Debug\diplom.exe
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\obj\x86\Debug\diplom.pdb

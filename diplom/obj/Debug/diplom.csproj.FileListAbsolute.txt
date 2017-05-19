@@ -1,0 +1,14 @@
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\obj\Debug\diplom.Properties.Resources.resources
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\obj\Debug\diplom.csproj.GenerateResource.Cache
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\bin\Debug\diplom.exe.config
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\bin\Debug\diplom.exe
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\bin\Debug\diplom.pdb
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\bin\Debug\MetroFramework.Design.dll
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\bin\Debug\MetroFramework.dll
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\obj\Debug\diplom.exe
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\obj\Debug\diplom.pdb
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\obj\Debug\diplom.Main.resources
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\obj\Debug\diplom.AddSupplier.resources
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\obj\Debug\diplom.csprojResolveAssemblyReference.cache
+C:\Users\konat\documents\visual studio 2017\Projects\diplom\diplom\obj\Debug\diplom.Add_Import.resources
